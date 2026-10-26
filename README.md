@@ -84,4 +84,4 @@ Visuais personalizados: Rotating Tile, Chiclet Slicer, Text Filter, Card Browser
 ## 👤 Autor
 
 **Iury Benter Magalhães** | Analista de Dados
-[LinkedIn](https://www.linkedin.com/in/SEU-USUARIO) · [GitHub](https://github.com/SEU-USUARIO)
+[LinkedIn](www.linkedin.com/in/iury-benter-) · [GitHub](https://github.com/Iury-Benter-Magalhaes)
